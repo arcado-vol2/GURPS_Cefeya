@@ -1,204 +1,101 @@
 <gm-root>
     <created_date>01.03.2026 13:11</created_date>
-    <modified_date>01.03.2026 21:35</modified_date>
+    <modified_date>01.03.2026 21:43</modified_date>
     <name>Cefeya_petr</name><portrait></portrait>
 
+<gm-story id="f0000001" > <name icon="fa fa-fw fa-file-text-o">directory_structure</name>   <story-text><div></div></story-text> </gm-story>
+<gm-story id="f0000002" > <name icon="fa fa-fw fa-file-text-o">gpt_test</name>   <story-text><div></div></story-text> </gm-story>
+<gm-story id="f0000003" > <name icon="fa fa-fw fa-file-text-o">test</name>   <story-text><div></div></story-text> </gm-story>
 <gm-folder style="zoom: 1;" id=board"d0000001"> <name icon="fa fa-fw fa-folder">Бестиарий</name>
     <gm-folder style="zoom: 1;" id=board"d0000002"> <name icon="fa fa-fw fa-folder">Боги</name>
-        <gm-story id="f0000004" > <name icon="fa fa-fw fa-file-text-o">Ареат</name>  #бог
-Бог правды и прозрения </gm-story>
-        <gm-story id="f0000005" > <name icon="fa fa-fw fa-file-text-o">Дархат</name>  #бог
-Богиня нежити и чёрной магии </gm-story>
-        <gm-story id="f0000006" > <name icon="fa fa-fw fa-file-text-o">Молдакан</name>  #бог 
-Бог знаний и познания </gm-story>
+        <gm-story id="f0000004" > <name icon="fa fa-fw fa-file-text-o">Ареат</name>   <story-text><div></div></story-text> </gm-story>
+        <gm-story id="f0000005" > <name icon="fa fa-fw fa-file-text-o">Дархат</name>   <story-text><div></div></story-text> </gm-story>
+        <gm-story id="f0000006" > <name icon="fa fa-fw fa-file-text-o">Молдакан</name>   <story-text><div></div></story-text> </gm-story>
     </gm-folder>
     <gm-folder style="zoom: 1;" id=board"d0000003"> <name icon="fa fa-fw fa-folder">Монстры</name>
-        <gm-story id="f0000007" > <name icon="fa fa-fw fa-file-text-o">Вселяющийся Дух</name>  #нечисть #призрак
-Призрак способный завладеть волей живого человека </gm-story>
-        <gm-story id="f0000008" > <name icon="fa fa-fw fa-file-text-o">Зомби</name>  #нечисть #нежить
-
-Восставший труп </gm-story>
-        <gm-story id="f0000009" > <name icon="fa fa-fw fa-file-text-o">Перевёртыш</name>  #нечисть 
-
-Сущность способная менять свой облик, в особо редких случаях полнсотью, обычно в меньших масштабах </gm-story>
-        <gm-story id="f0000010" > <name icon="fa fa-fw fa-file-text-o">Призрак</name>  #нечисть #призрак 
-
-Неуспокоенная душа человека  </gm-story>
-        <gm-story id="f0000011" > <name icon="fa fa-fw fa-file-text-o">Скелет</name>  #нечисть #нежить
-
-Скелет поднятой тёмной магией </gm-story>
+        <gm-story id="f0000007" > <name icon="fa fa-fw fa-file-text-o">Вселяющийся Дух</name>   <story-text><div></div></story-text> </gm-story>
+        <gm-story id="f0000008" > <name icon="fa fa-fw fa-file-text-o">Зомби</name>   <story-text><div></div></story-text> </gm-story>
+        <gm-story id="f0000009" > <name icon="fa fa-fw fa-file-text-o">Перевёртыш</name>   <story-text><div></div></story-text> </gm-story>
+        <gm-story id="f0000010" > <name icon="fa fa-fw fa-file-text-o">Призрак</name>   <story-text><div></div></story-text> </gm-story>
+        <gm-story id="f0000011" > <name icon="fa fa-fw fa-file-text-o">Скелет</name>   <story-text><div></div></story-text> </gm-story>
     </gm-folder>
 </gm-folder>
 <gm-folder style="zoom: 1;" id=board"d0000004"> <name icon="fa fa-fw fa-folder">Болезни и травмы</name>
-    <gm-story id="f0000012" > <name icon="fa fa-fw fa-file-text-o">Трупная болезнь</name>  #болезнь
-Передаётся через взаимодействия с трупами (живыми и не очень). 
-
-Передача; Укус или царапина от нежити
-Вирулентность; 6 (4 при простом контакте)
-Симптомы; Лихорадка, общая боль в теле, недомогание
-Диагностика; 1-я стадия; Диагностика -1
-Диагностика; 2-я стадия; Диагностика +1
-Ошибочная диагностика как; Чума
-Лечение; Снятие боли (+1) и лихорадки (+2)
-Без лечения; 4 ЕУ
-
-**Ход болезни**
-
-Инкубационный период; 1к3 дней
-1-я стадия; 3 дня
-2-я стадия; 5 дней
-Восстановление; 17
-Бросок для избежания смерти; ЗД+3
-Послевосстановительный период; 1 неделя
-(+/- дней)
-С лечением; 2 ЕУ </gm-story>
+    <gm-story id="f0000012" > <name icon="fa fa-fw fa-file-text-o">Трупная болезнь</name>   <story-text><div></div></story-text> </gm-story>
 </gm-folder>
+<gm-story id="f0000013" > <name icon="fa fa-fw fa-file-text-o">Глобальная карта</name>   <story-text><div></div></story-text> </gm-story>
 <gm-folder style="zoom: 1;" id=board"d0000005"> <name icon="fa fa-fw fa-folder">Истории</name>
 </gm-folder>
-<gm-story id="f0000014" > <name icon="fa fa-fw fa-file-text-o">История</name>  [[Сессия 1]] - Сопровождали торговцев, увидели выход магии возрождения трупов осели в форте, убили Матея. Покалечили себя в драках
-[[Сессия 2]] - Матей оказался перевёртышем, попытались снять проклятье, подрались со скелетами, потеряли оруженосца
- </gm-story>
+<gm-story id="f0000014" > <name icon="fa fa-fw fa-file-text-o">История</name>   <story-text><div></div></story-text> </gm-story>
 <gm-folder style="zoom: 1;" id=board"d0000006"> <name icon="fa fa-fw fa-folder">Картинки</name>
+    <gm-story id="f0000015" > <name icon="fa fa-fw fa-file-text-o">Pasted image 20260301111055</name>   <story-text><div></div></story-text> </gm-story>
+    <gm-story id="f0000016" > <name icon="fa fa-fw fa-file-text-o">Pasted image 20260301111122</name>   <story-text><div></div></story-text> </gm-story>
+    <gm-story id="f0000017" > <name icon="fa fa-fw fa-file-text-o">big_map</name>   <story-text><div></div></story-text> </gm-story>
 </gm-folder>
 <gm-folder style="zoom: 1;" id=board"d0000007"> <name icon="fa fa-fw fa-folder">Локации</name>
-    <gm-story id="f0000018" > <name icon="fa fa-fw fa-file-text-o">Астевуар</name>  #место #барония
-
-Малая барония </gm-story>
-    <gm-story id="f0000019" > <name icon="fa fa-fw fa-file-text-o">Барния Дэ-Люмьер</name>  #место #барония </gm-story>
-    <gm-story id="f0000020" > <name icon="fa fa-fw fa-file-text-o">Барония Безарли</name>  #место 
-
- </gm-story>
-    <gm-story id="f0000021" > <name icon="fa fa-fw fa-file-text-o">Барония Джанкур</name>  #место #барония </gm-story>
-    <gm-story id="f0000022" > <name icon="fa fa-fw fa-file-text-o">Барония Костанье</name>  #место #барония  </gm-story>
-    <gm-story id="f0000023" > <name icon="fa fa-fw fa-file-text-o">Ла-Винкар</name>  #барония #место  </gm-story>
-    <gm-story id="f0000024" > <name icon="fa fa-fw fa-file-text-o">Ле-Бо-Де-Прованс</name>  #место #барония
-
-Малая барония </gm-story>
-    <gm-story id="f0000025" > <name icon="fa fa-fw fa-file-text-o">Рошфор-ан-Терр</name>  #барония #место 
-
-Малая барония </gm-story>
-    <gm-story id="f0000026" > <name icon="fa fa-fw fa-file-text-o">Форт дома Сумулур в Безарли</name>  #место #форт 
-Место стоянки в [[Сессия 1]] и [[Сессия 2]]. Находится в [[Барония Безарли]]
-
-Форт времён [[Аттерам]]. По центру колодец, слева от единственного входа по разрушенному откидному мосту руины и низкое каменное здание, справа руины и казармы. Под казармами осквернённый алтарь [[Дархат]]. Есть смотровая башня. На дне колодца люк.
-Конюшня разрушена.  С форта было снято проклятье силами [[Брат Бенуа Фитцджеральд]]. </gm-story>
+    <gm-story id="f0000018" > <name icon="fa fa-fw fa-file-text-o">Астевуар</name>   <story-text><div></div></story-text> </gm-story>
+    <gm-story id="f0000019" > <name icon="fa fa-fw fa-file-text-o">Барния Дэ-Люмьер</name>   <story-text><div></div></story-text> </gm-story>
+    <gm-story id="f0000020" > <name icon="fa fa-fw fa-file-text-o">Барония Безарли</name>   <story-text><div></div></story-text> </gm-story>
+    <gm-story id="f0000021" > <name icon="fa fa-fw fa-file-text-o">Барония Джанкур</name>   <story-text><div></div></story-text> </gm-story>
+    <gm-story id="f0000022" > <name icon="fa fa-fw fa-file-text-o">Барония Костанье</name>   <story-text><div></div></story-text> </gm-story>
+    <gm-story id="f0000023" > <name icon="fa fa-fw fa-file-text-o">Ла-Винкар</name>   <story-text><div></div></story-text> </gm-story>
+    <gm-story id="f0000024" > <name icon="fa fa-fw fa-file-text-o">Ле-Бо-Де-Прованс</name>   <story-text><div></div></story-text> </gm-story>
+    <gm-story id="f0000025" > <name icon="fa fa-fw fa-file-text-o">Рошфор-ан-Терр</name>   <story-text><div></div></story-text> </gm-story>
+    <gm-story id="f0000026" > <name icon="fa fa-fw fa-file-text-o">Форт дома Сумулур в Безарли</name>   <story-text><div></div></story-text> </gm-story>
 </gm-folder>
 <gm-folder style="zoom: 1;" id=board"d0000008"> <name icon="fa fa-fw fa-folder">Лор</name>
-    <gm-story id="f0000027" > <name icon="fa fa-fw fa-file-text-o">Аратская колегия сфер</name>   </gm-story>
+    <gm-story id="f0000027" > <name icon="fa fa-fw fa-file-text-o">Аратская колегия сфер</name>   <story-text><div></div></story-text> </gm-story>
     <gm-folder style="zoom: 1;" id=board"d0000009"> <name icon="fa fa-fw fa-folder">Государства</name>
-        <gm-story id="f0000028" > <name icon="fa fa-fw fa-file-text-o">Аттерам</name>  #лор #империя
-Местный рим </gm-story>
+        <gm-story id="f0000028" > <name icon="fa fa-fw fa-file-text-o">Аттерам</name>   <story-text><div></div></story-text> </gm-story>
     </gm-folder>
     <gm-folder style="zoom: 1;" id=board"d0000010"> <name icon="fa fa-fw fa-folder">Роды</name>
-        <gm-story id="f0000029" > <name icon="fa fa-fw fa-file-text-o">Дом Сумулур</name>  #род 
-Заложили [[Форт дома Сумулур в Безарли]] поклонялись [[Дархат]] были связаны с тёмной магией. [[Мариус]] просит защитить род чтобы враг не забрал. Говорит что создатель [[Форт дома Сумулур в Безарли]] в форту  </gm-story>
-        <gm-story id="f0000030" > <name icon="fa fa-fw fa-file-text-o">Дом Фатх</name>  #род
-
-Враги [[Дом Сумулур]]
- </gm-story>
+        <gm-story id="f0000029" > <name icon="fa fa-fw fa-file-text-o">Дом Сумулур</name>   <story-text><div></div></story-text> </gm-story>
+        <gm-story id="f0000030" > <name icon="fa fa-fw fa-file-text-o">Дом Фатх</name>   <story-text><div></div></story-text> </gm-story>
     </gm-folder>
-    <gm-story id="f0000031" > <name icon="fa fa-fw fa-file-text-o">Экономика</name>  #лор 
-
-Фартинг -  аналог меди в днд. Используется в большинстве своём
-Шиллинг - аналог серебра в днд. Используется для крупной торговли
-Фунт - аналог золота в днд. Используется пиздец в крупных масштабах </gm-story>
+    <gm-story id="f0000031" > <name icon="fa fa-fw fa-file-text-o">Экономика</name>   <story-text><div></div></story-text> </gm-story>
 </gm-folder>
+<gm-story id="f0000032" > <name icon="fa fa-fw fa-file-text-o">Мастерская доска</name>   <story-text><div></div></story-text> </gm-story>
 <gm-folder style="zoom: 1;" id=board"d0000011"> <name icon="fa fa-fw fa-folder">НИПЫ</name>
     <gm-folder style="zoom: 1;" id=board"d0000012"> <name icon="fa fa-fw fa-folder">Враги</name>
-        <gm-story id="f0000033" > <name icon="fa fa-fw fa-file-text-o">Мариус</name>  #нип #враг #призрак #нежить 
-[[Вселяющийся Дух]], бывшего офицера который засел в [[Форт дома Сумулур в Безарли]] руками [[Хаинц Эббер]] убил [[Уильям де Османд]] 
-Хочет что-то свзяанное со своей лошадью Хорей из [[Дом Сумулур]] владелец? [[Форт дома Сумулур в Безарли]]. Лошадку съели его подчинённые. А его убили, потому что он пытался защитить своего скакуна. 
-
-Упокоен
-
-
- </gm-story>
-        <gm-story id="f0000034" > <name icon="fa fa-fw fa-file-text-o">Матей</name>  #нип #торговец #враг #нечисть #нежить
-
-Помощник [[Рикардо Жером Мартинес]] некрасив, жилист, высок. Странный, подозрительный и неразговорчивый. Вызывает подозрения своими решениями, но не действиями. В основном общается только с [[Рикардо Жером Мартинес]]  
-
-По истории был скинут в колодец и съеден там [[Зомби]]. После того как его подняли на месте трупа оказался абсолютно другой человек
-
-**МЕТА** команда видела, как он общается с [[Рыцарь в плаще]], сделала предположение что он оборотень ([[Перевёртыш]]) высокого статуса который становится тем сильнее, чем чаще меняет облик. По факту оказался рузумной нежитью, нежить раб, нежить слуга, подконтрольный [[Дом Фатх]]  </gm-story>
-        <gm-story id="f0000035" > <name icon="fa fa-fw fa-file-text-o">Рыцарь в плаще</name>  #враг  #нип
-
-Неизвестный, но скорее всего мощных колдун </gm-story>
+        <gm-story id="f0000033" > <name icon="fa fa-fw fa-file-text-o">Мариус</name>   <story-text><div></div></story-text> </gm-story>
+        <gm-story id="f0000034" > <name icon="fa fa-fw fa-file-text-o">Матей</name>   <story-text><div></div></story-text> </gm-story>
+        <gm-story id="f0000035" > <name icon="fa fa-fw fa-file-text-o">Рыцарь в плаще</name>   <story-text><div></div></story-text> </gm-story>
     </gm-folder>
     <gm-folder style="zoom: 1;" id=board"d0000013"> <name icon="fa fa-fw fa-folder">Наниматели</name>
-        <gm-story id="f0000036" > <name icon="fa fa-fw fa-file-text-o">Рикардо Жером Мартинес</name>  #нип #торговец #валиец #мёртв
-
-Наниматель на старте игры, торопливый и эмоциональный торговец. Профессионал своего дела. Вез малый груз тканей и специй. Подозрительно скрытен. Потерял постоянную защиту своего каравана и имел караван крайне малых размеров. В хороших отношениях с помощником [[Матей]]
-
-УБИТ рукой [[Рыцарь в плаще]] </gm-story>
+        <gm-story id="f0000036" > <name icon="fa fa-fw fa-file-text-o">Рикардо Жером Мартинес</name>   <story-text><div></div></story-text> </gm-story>
     </gm-folder>
     <gm-folder style="zoom: 1;" id=board"d0000014"> <name icon="fa fa-fw fa-folder">Правители</name>
-        <gm-story id="f0000037" > <name icon="fa fa-fw fa-file-text-o">Его Сиятельство Дагоберт дю Нель Люмьерский</name>  #ландграф #нип
-Ландграф [[Барония Безарли]]
-
-Супруга [[Рохель дю Нель]] </gm-story>
-        <gm-story id="f0000038" > <name icon="fa fa-fw fa-file-text-o">Его милость Гастон дю Валуа</name>  #нип #барон
-Малый барон [[Ле-Бо-Де-Прованс]] </gm-story>
-        <gm-story id="f0000039" > <name icon="fa fa-fw fa-file-text-o">Его милость Жиль дю Тьерсо</name>  #барон #нип
-Правитель [[Рошфор-ан-Терр]] </gm-story>
-        <gm-story id="f0000040" > <name icon="fa fa-fw fa-file-text-o">Его милость Кристиан дю Леру</name>  #нип #барон 
-Правитель [[Астевуар]]
-
-Муж сестры [[мад]] </gm-story>
-        <gm-story id="f0000041" > <name icon="fa fa-fw fa-file-text-o">Его милость Нарсис дю Маршан</name>  #нип #барон 
-Правит [[Барония Джанкур]]
-У него в вассалитете:
-Его милость Барон Раймунд дю Галлон, правящий Баронией Мон-Сен-Граль.
-А так же родственник [[Сир Ансельм дэ Кастан Ансель]], Его милость [[Франсуа дю Кастан]], правящий Малой [[Барония Костанье]]. </gm-story>
-        <gm-story id="f0000042" > <name icon="fa fa-fw fa-file-text-o">Его милость Роберт дю Дельмас</name>  #нип #барон 
-Правитель [[Ла-Винкар]] </gm-story>
-        <gm-story id="f0000043" > <name icon="fa fa-fw fa-file-text-o">Его милость барон Дюран дю Маршан</name>  #барон #нип
-
-Правитель [[Барния Дэ-Люмьер]]
-
-Сюзерен [[Его милость Гастон дю Валуа]] и [[Его милость Жиль дю Тьерсо]] </gm-story>
-        <gm-story id="f0000044" > <name icon="fa fa-fw fa-file-text-o">Рохель дю Нель</name>  #жена_ландграфа #нип
-Жена [[Его Сиятельство Дагоберт дю Нель Люмьерский]]
- </gm-story>
-        <gm-story id="f0000045" > <name icon="fa fa-fw fa-file-text-o">Франсуа дю Кастан</name>  #нип #барон  </gm-story>
+        <gm-story id="f0000037" > <name icon="fa fa-fw fa-file-text-o">Его Сиятельство Дагоберт дю Нель Люмьерский</name>   <story-text><div></div></story-text> </gm-story>
+        <gm-story id="f0000038" > <name icon="fa fa-fw fa-file-text-o">Его милость Гастон дю Валуа</name>   <story-text><div></div></story-text> </gm-story>
+        <gm-story id="f0000039" > <name icon="fa fa-fw fa-file-text-o">Его милость Жиль дю Тьерсо</name>   <story-text><div></div></story-text> </gm-story>
+        <gm-story id="f0000040" > <name icon="fa fa-fw fa-file-text-o">Его милость Кристиан дю Леру</name>   <story-text><div></div></story-text> </gm-story>
+        <gm-story id="f0000041" > <name icon="fa fa-fw fa-file-text-o">Его милость Нарсис дю Маршан</name>   <story-text><div></div></story-text> </gm-story>
+        <gm-story id="f0000042" > <name icon="fa fa-fw fa-file-text-o">Его милость Роберт дю Дельмас</name>   <story-text><div></div></story-text> </gm-story>
+        <gm-story id="f0000043" > <name icon="fa fa-fw fa-file-text-o">Его милость барон Дюран дю Маршан</name>   <story-text><div></div></story-text> </gm-story>
+        <gm-story id="f0000044" > <name icon="fa fa-fw fa-file-text-o">Рохель дю Нель</name>   <story-text><div></div></story-text> </gm-story>
+        <gm-story id="f0000045" > <name icon="fa fa-fw fa-file-text-o">Франсуа дю Кастан</name>   <story-text><div></div></story-text> </gm-story>
     </gm-folder>
 </gm-folder>
 <gm-folder style="zoom: 1;" id=board"d0000015"> <name icon="fa fa-fw fa-folder">Персонажи</name>
     <gm-folder style="zoom: 1;" id=board"d0000016"> <name icon="fa fa-fw fa-folder">Артём</name>
-        <gm-story id="f0000046" > <name icon="fa fa-fw fa-file-text-o">Сир Ансельм дэ Кастан Ансель</name>  #игрок #артём #рыцарь 
-Любопытсен, альтруистичен, импульсивен. Очень мечтателен, бьётся за честь, всегда готов пойти за людей. Действует безрассудно особенно, когда в беде товарищ. Эмоционален. Пишет стихи. Высокий статус, левая пятка правого колена [[Его милость Нарсис дю Маршан||барона Джанкура]] </gm-story>
-        <gm-story id="f0000047" > <name icon="fa fa-fw fa-file-text-o">Уильям де Османд</name>  #игрок #оруженосец #рыцарь #артём #мёртв
-Оруженосец - пидор (гей). Тоже импульсивен и альтруистичен. Походу влюблён в [[Сир Ансельм дэ Кастан Ансель| господина]]. Ансель не выказывал настолько явной взаимности. Эмоционален.
-
-ПОГИБ в бою со скелетами от [[Вселяющийся Дух]] от [[Хаинц Эббер| моих]] рук </gm-story>
+        <gm-story id="f0000046" > <name icon="fa fa-fw fa-file-text-o">Сир Ансельм дэ Кастан Ансель</name>   <story-text><div></div></story-text> </gm-story>
+        <gm-story id="f0000047" > <name icon="fa fa-fw fa-file-text-o">Уильям де Османд</name>   <story-text><div></div></story-text> </gm-story>
     </gm-folder>
     <gm-folder style="zoom: 1;" id=board"d0000017"> <name icon="fa fa-fw fa-folder">Дима</name>
-        <gm-story id="f0000048" > <name icon="fa fa-fw fa-file-text-o">Альберт де Садлер</name>  #игрок #дима #оруженосец 
-Комия своего [[Сир Говен Юк де Ля-Монфер|господина]] во всём ему послушен, **глуп**. Страдает от дедовшины </gm-story>
-        <gm-story id="f0000049" > <name icon="fa fa-fw fa-file-text-o">Сир Говен Юк де Ля-Монфер</name>  #игрок #дима #рыцарь
-Рыцарь во всех хороших и плохих смыслах этого слова. Отец пропихнул. Охотился на мужиков. Присягнул королю, полицай. Верит в то что все его любят. Выслуживается перед королём. Похотлив пытается всунуть каждому (буквально). Считает крестьян дебилами. Крестьяне близки к собаке.  Керри. Прежде всего закон, насколько туп бы он не был. ОЧЕНЬ уважает статусы.
-Оруженосец [[Альберт де Садлер]] </gm-story>
+        <gm-story id="f0000048" > <name icon="fa fa-fw fa-file-text-o">Альберт де Садлер</name>   <story-text><div></div></story-text> </gm-story>
+        <gm-story id="f0000049" > <name icon="fa fa-fw fa-file-text-o">Сир Говен Юк де Ля-Монфер</name>   <story-text><div></div></story-text> </gm-story>
     </gm-folder>
     <gm-folder style="zoom: 1;" id=board"d0000018"> <name icon="fa fa-fw fa-folder">Ника</name>
-        <gm-story id="f0000050" > <name icon="fa fa-fw fa-file-text-o">Дид Марфогель</name>  #игрок #ника #солдат #наёмник
-Скупой верный [[Мадмазель Амалия Каур]] наёмник. Любит яблоки. Не рискует по чём зря. Прежде всего деньги. Очень стар 50+ лет. Долго служит </gm-story>
-        <gm-story id="f0000051" > <name icon="fa fa-fw fa-file-text-o">Мадмазель Амалия Каур</name>  #игрок #врач #ника #учёный #следователь #маг 
- Хранительница магии. Магистр по расследованию использовавания магии. Отец положил путь. Верит в [[Молдакан]]. Бог знаний. Отличница, Пятёрка. Слышит голоса, очень им послушна, готова убить по словам. Лекарь
-
-Сопровождается [[Дид Марфогель]] и [[ Серхио Мора Гальего]] </gm-story>
-        <gm-story id="f0000052" > <name icon="fa fa-fw fa-file-text-o">Серхио Мора Гальего</name>  #игрок #ника #наёмник #солдат 
-Охрана [[Мадмазель Амалия Каур]] энергичный типа испанец. Живой щит для своей госпожи </gm-story>
+        <gm-story id="f0000050" > <name icon="fa fa-fw fa-file-text-o">Дид Марфогель</name>   <story-text><div></div></story-text> </gm-story>
+        <gm-story id="f0000051" > <name icon="fa fa-fw fa-file-text-o">Мадмазель Амалия Каур</name>   <story-text><div></div></story-text> </gm-story>
+        <gm-story id="f0000052" > <name icon="fa fa-fw fa-file-text-o">Серхио Мора Гальего</name>   <story-text><div></div></story-text> </gm-story>
     </gm-folder>
     <gm-folder style="zoom: 1;" id=board"d0000019"> <name icon="fa fa-fw fa-folder">Петя</name>
-        <gm-story id="f0000053" > <name icon="fa fa-fw fa-file-text-o">Хаинц Эббер</name>  #игрок #петр #егерь #врач
-
-Егерь при [[Его милость Гастон дю Валуа]] Альтруистичный толстяк гигант, верящий во всяких духов и знания предков. Альтруистичен и хочет помогать, но не всегда делает это хорошо. Жил в  [[Ле-Бо-Де-Прованс]] </gm-story>
+        <gm-story id="f0000053" > <name icon="fa fa-fw fa-file-text-o">Хаинц Эббер</name>   <story-text><div></div></story-text> </gm-story>
     </gm-folder>
     <gm-folder style="zoom: 1;" id=board"d0000020"> <name icon="fa fa-fw fa-folder">Тима</name>
-        <gm-story id="f0000054" > <name icon="fa fa-fw fa-file-text-o">Брат Бенуа Фитцджеральд</name>  #игрок #тима #храмовник #рыцарь #ареат #маг
-
-Храмовник фанатик бога правды и познания [[Ареат]]. Не терпит лжи. Крайне религиозен. Силён, большой профессионал в боях. Импульсивен, первый кто идёт в бой, грудью ложиться за товарищей. Способен здраво рассуждать и прощать. Альтруистичен. Оруженосец [[Леопольд де Рауль]] </gm-story>
-        <gm-story id="f0000055" > <name icon="fa fa-fw fa-file-text-o">Леопольд де Рауль</name>  #игрок #тима #рыцарь #оруженосец
-Оруженосец [[Брат Бенуа Фитцджеральд|Бенуа]]. Служит, чтобы зачли опыт. Глупее господина. Хороший боец. Паршивый фанатик. </gm-story>
+        <gm-story id="f0000054" > <name icon="fa fa-fw fa-file-text-o">Брат Бенуа Фитцджеральд</name>   <story-text><div></div></story-text> </gm-story>
+        <gm-story id="f0000055" > <name icon="fa fa-fw fa-file-text-o">Леопольд де Рауль</name>   <story-text><div></div></story-text> </gm-story>
     </gm-folder>
 </gm-folder>
 <gm-folder style="zoom: 1;" id=board"d0000021"> <name icon="fa fa-fw fa-folder">Предметы</name>
@@ -210,44 +107,7 @@
     </gm-folder>
 </gm-folder>
 <gm-folder style="zoom: 1;" id=board"d0000025"> <name icon="fa fa-fw fa-folder">Сессии</name>
-    <gm-story id="f0000056" > <name icon="fa fa-fw fa-file-text-o">Сессия 1</name>  ### Даты: 18:00   27.04.1173 -- 22:00  27.04.1173
-
-Охраняем караван. Увидели разлом, который поднимает зомби, караванщик  [[Рикардо Жером Мартинес]] стрёмный и что-то скрывает скорее всего с кем-то в сговоре. Пошли укрыться в замке. На входе был чей-то след. [[Форт дома Сумулур в Безарли||Замок]] в плохом состоянии. Под весом подо мной провалился мост на меня, сломаны рёбра. За мной бросились [[Брат Бенуа Фитцджеральд|Бенуа]], [[Сир Ансельм дэ Кастан Ансель||Анселем]] и [[Уильям де Османд||оруженосец Анселя]]. [[Сир Ансельм дэ Кастан Ансель]] повредил колено, [[Уильям де Османд]] очень сильно боялся за своего господина. Получилось успешно вытащить меня. Прополз в замок, заметил уходящие налево следы. Увидел как [[Брат Бенуа Фитцджеральд]] общается с богом. Бог говорит что в замке нет вайфая. Посредине двроа Колодец, двор мощённый. Западной стены низкое каменное здание. На западе руины. Воздух фиолетов. Место проклято. Восток - право, запада - лева. В колодце оказался зомби. Который напугал часть пати и спёр фонарь [[Сир Ансельм дэ Кастан Ансель]]. [[Зомби]]- это бертрам, сослуживец [[Дид Марфогель]]. [[Брат Бенуа Фитцджеральд]] запугал [[Матей]]. Прихвостни [[Мадмазель Амалия Каур]] кинули[[Матей]] в колодец. [[Сир Ансельм дэ Кастан Ансель]] прыгает туда. Его удерживают. Я с [[Сир Ансельм дэ Кастан Ансель]] спускаемся в колодец. Убиваем [[Зомби]]. В колодце есть люк. Из-за одиночки разбиваю лицо [[Сир Ансельм дэ Кастан Ансель]]. За это меня разбивает [[Брат Бенуа Фитцджеральд]]. [[Брат Бенуа Фитцджеральд]] вытаскивает нас. Лечимся. Точка остановки [[Брат Бенуа Фитцджеральд]] сбегал за моим мешком. [[Мадмазель Амалия Каур]] лечит нас. [[Брат Бенуа Фитцджеральд]] и [[Сир Говен Юк де Ля-Монфер]] хотят допытаться почему я напал на [[Сир Ансельм дэ Кастан Ансель]]. </gm-story>
-    <gm-story id="f0000057" > <name icon="fa fa-fw fa-file-text-o">Сессия 2</name>  ## Даты: 22:00  27.04.1173 -- 02:00  28.04.1173
-
-После подъёма начали лечение. Меня с силой оттащили чтобы я не чинил зло. Из колодца кого-то достали, но это был не [[Матей]]. (получил заражение [[Трупная болезнь]]. [[Сир Ансельм дэ Кастан Ансель]], [[Хаинц Эббер]], [[Сир Говен Юк де Ля-Монфер]] и прочие оруженосцы едим и изучаем [[Матей]]. [[Брат Бенуа Фитцджеральд]], [[Мадмазель Амалия Каур]] пошли в казармы чтобы [[Мадмазель Амалия Каур]] переоделась, там в казармах они нашли люк в святилище [[Дархат]] (богини нежити и чёрной магии). Внизу бумаги, картина с монстром, труп без головы, картина битвы богов с монстром (большим, падшим) меч (ст. [[Аттерам|атерамский]] Сомулур капля смерти). Позвали [[Сир Говен Юк де Ля-Монфер]] и остальных, с [[Сир Говен Юк де Ля-Монфер]] обсуждаем труп [[Матей]], я решают тащить труп на плече в святилище, но [[Сир Говен Юк де Ля-Монфер]] согласился скинуть его обратно в колодец в связанном [[Альберт де Садлер]] виде. Мы с [[Сир Ансельм дэ Кастан Ансель]] бежим узнавать что там в гробнице. [[Брат Бенуа Фитцджеральд]] проводит ритуал очищения места от проклятья. Мы ему помогаем. Звонок не дошёл, началась облава [[Призрак]]. Начался бой со [[Скелет|склетами]]. Мы победили. В меня вселился дух, я убил [[Альберт де Садлер]]. Мне не верят. Меня сковали. Спасти оруженосца Анслея не удалось. Я сошёл с ума. [[Мадмазель Амалия Каур]] cмогла вывести меня из забытия
-
-
-При осмотре местности было замечено что на [[Форт дома Сумулур в Безарли]] направляется орда нежити в предводительстве неким [[Рыцарь в плаще]] . [[Сир Говен Юк де Ля-Монфер]] нашёл кинжал, деньги, доспехи, странный стог сена. Алтарь [[Ареат]] с фиолетовым дымом вокруг. В горизонте заметил нежить. Сказал что почуствовал ужас и страх. [[Матей]] был рядом с [[Рыцарь в плаще]], тот убил [[Рикардо Жером Мартинес]].
- </gm-story>
-    <gm-story id="f0000058" > <name icon="fa fa-fw fa-file-text-o">Сессия 3</name>  ## Даты 02:00  28.04.1173 -- 
-
-[[Мадмазель Амалия Каур]] общается с духом [[Мариус]] пытаясь его упокоить. [[Сир Ансельм дэ Кастан Ансель]] был излечен [[Мадмазель Амалия Каур]] теперь доёбывается до её писечки, ещё и до [[Брат Бенуа Фитцджеральд]] с меня сняли наручники. Мы пошли до конюшен, чтобы очистить местность, найти выход из [[Форт дома Сумулур в Безарли]] и убежать от нежити. В конюшне нашли труп лошади [[Мариус]] и его труп. Его убили его товарищи. Снизу ещё трупы. На форт напал некий [[Дом Фатх]]. [[Дом Сумулур]] проиграл, ровно как и [[Дом Фатх]]. Дух обещает, что [[Дом Фатх]] вернётся. В колодце рука [[Дом Фатх]] - ключ. Духа отпутсили. Пошли в темницу. Там кучу зомби и труп из [[Аратская колегия сфер]]. Оживили труп говорит про возвращения некого лорда. Находими ритуальный клинок Фатх Кровопийца. Записка. В письме 
-```Записка
-Ваше сиятельство, пишу на скорую руку - нет времени объяснять. Но есть знание! Братья Марсель, Йохан, Филиберт, Доминик и все наши люди пожертвовали своей жизнью ради этого знания. Враг на много опаснее и организованней, чем мы думали, если не действовать сейчас, то вероятно, нас всех ждет катастрофа! Как только мы коснулись озарения - за нами тут же открыли охоту, мы слишком понадеялись на силу наших братьев-храмовников. Наша самонадеянность сгубила нас - молю, не повторяйте наших ошибок, будьте осторожны. Не говорите об этом тем, кого лично не знаете.  Надвигается тьма, и она как то связана с  неким Домом Фатх... и тем, кто в этом замешан очень нужно то.... далее текст смазан и не разборчив.
-```
-Спустили [[Мадмазель Амалия Каур]] в колодец там сфера и стих
-```стих
-Азерат Сомулур, гневный наш враг
-Предвестник паденья нашего рода
-Покорял, вырывал словно сорняк
-Разрушая наш дом год от года
-
-Мы ждали, готовились к этой войне
-Не знали покоя, не знали свободы
-Но знали, что ты покорен судьбе
-И не отступишь от вызова оной
-
-Поразили, разбили, покорили тебя
-Не успел, не увидел не понял
-И настигла тебя, твоя же война
-Рукой Фатх, оказался разгромлен
-
-И навеки остался покорным рабом
-Не своей - ненавистною волей
-Томишься теперь ты в месте пустом
-Один на один в собственной боли
-```
-Подняли её, спустили [[Брат Бенуа Фитцджеральд]] он получил искажение за это.  Полилось открыть принеся жертву, [[Брат Бенуа Фитцджеральд]] руками [[Леопольд де Рауль]] пробив свою руку ритуальным клинком и получил обручь с цепями связанными с кольцами. Подняли [[Сир Ансельм дэ Кастан Ансель]] [[Сир Говен Юк де Ля-Монфер]] [[Альберт де Садлер]]
-Вломились в главную залу, перед нем следу очень большого и тяжелого человека. Внутри оказался очаг со свезим кострищем. Помимо прочего внутри старый стол, покосившиеся и упавший шкаф и куча мусора из шкафа, которые никто не достал. И прочий животный и мусор. Остался вещь мешок, походный. Тот кто тут был вооружен двумя топорами. Ушёл внутрь. У него в рюкзаке кольца с асгальдским языком. Нашли сундук с пером птицы из вествалии или авильона. Разбитым кольцом и сургучом. Внутри шкатулки в потайном отсеке есть монеты разных номиналов очень древней эпохи (до вознесения владык)х5 от цены.  </gm-story>
+    <gm-story id="f0000056" > <name icon="fa fa-fw fa-file-text-o">Сессия 1</name>   <story-text><div></div></story-text> </gm-story>
+    <gm-story id="f0000057" > <name icon="fa fa-fw fa-file-text-o">Сессия 2</name>   <story-text><div></div></story-text> </gm-story>
+    <gm-story id="f0000058" > <name icon="fa fa-fw fa-file-text-o">Сессия 3</name>   <story-text><div></div></story-text> </gm-story>
 </gm-folder>
