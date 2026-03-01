@@ -3,15 +3,45 @@
   <modified_date>01.03.2026 13:50</modified_date>
   <name>Мастерская доска</name><portrait></portrait>
 
+
+
+
 <gm-folder id="board00000001" style="zoom: 1;"> <name icon="fa fa-fw fa-folder">Test_folder</name>
 
 
 
-</gm-folder>
+<text-block class="no-scroll" style="width: 300px; height: 200px; position: absolute; top: 468.5px; left: 517.5px;"><text></text></text-block><gm-story id="board39842287" current=""><name icon="fa fa-fw fa-file-text-o">Тест</name><story-text><div>       
+<div><br></div>
+<h1>Заголовок 1</h1>    
+<div><br></div>
+<div>Простой текст</div>
+<div><br></div>
+<h2>Заголовок 2</h2>    
+<div><br></div>
+<div><ul>
+<li>пункт 1</li>        
+<li>пункт 2</li>        
+</ul></div>
+<div><br></div>
+<div><ol>
+<li>Пункт 1</li>        
+<li>Пункт 2</li>        
+</ol></div>
+<div><br></div>
+<table><tbody><tr>
+<th style="width:300px;"><td-editable>Колонка 1</td-editable></th>
+<th style="width:300px;"><td-editable>Колонка 2</td-editable></th>
+</tr>
+<tr>
+<td><td-editable>Ячейка 1</td-editable></td>
+<td><td-editable>Ячейка 2</td-editable></td>
+</tr>
+</tbody></table>
+<div><br></div>
+<div>Текст с <a href="#test">ссылкой</a> и <b>жирным</b> и <i>курсивом</i> и <u>подчёркнутым</u> и <strike>зачёркнутым</strike></div>
+<div><br></div>
+</div></story-text></gm-story></gm-folder><gm-folder id="board00000003" style="zoom: 1;"> <name icon="fa fa-fw fa-folder">Test_folder</name>
 
-<gm-folder id="board00000003" style="zoom: 1;"> <name icon="fa fa-fw fa-folder">Test_folder</name>
 
 
-
-</gm-folder>
-</gm-root>
+</gm-folder></gm-root>
