@@ -1,42 +1,17 @@
 <gm-root>
-  <created_date>01.03.2026 13:11</created_date>
+<created_date>01.03.2026 13:11</created_date>
   <modified_date>01.03.2026 13:50</modified_date>
   <name>Мастерская доска</name><portrait></portrait>
-  
-<gm-folder id="board6284883" style="zoom: 1;"> <name icon="fa fa-fw fa-folder">Test_folder</name>
-
-
-<gm-story id="board73777990">
-<name icon="fa fa-fw fa-file-text-o">Test_note</name>
-<story-text>
-<div>Test text test text</div>
-</story-text>
-</gm-story>
-
-
-<gm-story id="board73777991">
-<name icon="fa fa-fw fa-file-text-o">Test_note_2</name>
-<story-text>
-<div>Test2 text2 test2 text2</div>
-</story-text>
-</gm-story>
-
-
-</gm-folder>
-
-
-<gm-folder id="board6284884" style="zoom: 1;"> <name icon="fa fa-fw fa-folder">Test_folder2</name>
-
-
-<gm-story id="board73777992" current="">
-<name icon="fa fa-fw fa-file-text-o">Test_note3</name>
-<story-text>
-<div>Test text test text&nbsp;<a href="#board73777992">Test_note3&nbsp;</a></div><div><br></div><div><ol><li>Список</li><li>Списко</li><li>Список</li></ol><div><b>Жирный</b></div><div>текст&nbsp;</div><div><i>Курсив</i></div><div>текст</div><div><u>Подчёркнут</u></div><div>текст</div><div><strike>Зачёркнут</strike></div><div><strike><br></strike></div><div><ul><li>список 2</li><li>список 2</li></ul><div><hr><br></div><div>Разделитель</div></div><div><table><tbody><tr><th style="width:300px;"><td-editable>Таблица 1</td-editable></th><th style="width:300px;"><td-editable>Таблица 2</td-editable></th></tr><tr><td><td-editable>Элемент 1</td-editable></td><td><td-editable>Элемент 2</td-editable></td></tr></tbody></table></div><div><br></div></div>
-</story-text>
-</gm-story>
 
 
 
-</gm-folder>
 
-</gm-root>
+<gm-folder id="board00000001" style="zoom: 1;"> <name icon="fa fa-fw fa-folder">Test_folder</name>
+
+
+
+<gm-story id="board83035742"><name icon="fa fa-fw fa-file-text-o">История</name><story-text><div>Начните свою историю</div></story-text></gm-story></gm-folder><gm-folder id="board00000003" style="zoom: 1;"> <name icon="fa fa-fw fa-folder">Test_folder</name>
+
+
+
+</gm-folder></gm-root>

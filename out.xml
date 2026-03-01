@@ -1,0 +1,112 @@
+<gm-root>
+    <created_date>01.03.2026 13:11</created_date>
+    <modified_date>01.03.2026 21:04</modified_date>
+    <name>Cefeya_petr</name><portrait></portrait>
+
+<gm-story id="f0000001" > <name icon="fa fa-fw fa-file-text-o">directory_structure</name>   <story-text><div>Тест</div></story-text> </gm-story>
+<gm-story id="f0000002" > <name icon="fa fa-fw fa-file-text-o">test</name>   <story-text><div>Тест</div></story-text> </gm-story>
+<gm-folder style="zoom: 1;" id=board"d0000001"> <name icon="fa fa-fw fa-folder">Бестиарий</name>
+    <gm-folder style="zoom: 1;" id=board"d0000002"> <name icon="fa fa-fw fa-folder">Боги</name>
+        <gm-story id="f0000003" > <name icon="fa fa-fw fa-file-text-o">Ареат</name>   <story-text><div>Тест</div></story-text> </gm-story>
+        <gm-story id="f0000004" > <name icon="fa fa-fw fa-file-text-o">Дархат</name>   <story-text><div>Тест</div></story-text> </gm-story>
+        <gm-story id="f0000005" > <name icon="fa fa-fw fa-file-text-o">Молдакан</name>   <story-text><div>Тест</div></story-text> </gm-story>
+    </gm-folder>
+    <gm-folder style="zoom: 1;" id=board"d0000003"> <name icon="fa fa-fw fa-folder">Монстры</name>
+        <gm-story id="f0000006" > <name icon="fa fa-fw fa-file-text-o">Вселяющийся Дух</name>   <story-text><div>Тест</div></story-text> </gm-story>
+        <gm-story id="f0000007" > <name icon="fa fa-fw fa-file-text-o">Зомби</name>   <story-text><div>Тест</div></story-text> </gm-story>
+        <gm-story id="f0000008" > <name icon="fa fa-fw fa-file-text-o">Перевёртыш</name>   <story-text><div>Тест</div></story-text> </gm-story>
+        <gm-story id="f0000009" > <name icon="fa fa-fw fa-file-text-o">Призрак</name>   <story-text><div>Тест</div></story-text> </gm-story>
+        <gm-story id="f0000010" > <name icon="fa fa-fw fa-file-text-o">Скелет</name>   <story-text><div>Тест</div></story-text> </gm-story>
+    </gm-folder>
+</gm-folder>
+<gm-folder style="zoom: 1;" id=board"d0000004"> <name icon="fa fa-fw fa-folder">Болезни и травмы</name>
+    <gm-story id="f0000011" > <name icon="fa fa-fw fa-file-text-o">Трупная болезнь</name>   <story-text><div>Тест</div></story-text> </gm-story>
+</gm-folder>
+<gm-story id="f0000012" > <name icon="fa fa-fw fa-file-text-o">Глобальная карта</name>   <story-text><div>Тест</div></story-text> </gm-story>
+<gm-folder style="zoom: 1;" id=board"d0000005"> <name icon="fa fa-fw fa-folder">Истории</name>
+</gm-folder>
+<gm-story id="f0000013" > <name icon="fa fa-fw fa-file-text-o">История</name>   <story-text><div>Тест</div></story-text> </gm-story>
+<gm-folder style="zoom: 1;" id=board"d0000006"> <name icon="fa fa-fw fa-folder">Картинки</name>
+    <gm-story id="f0000014" > <name icon="fa fa-fw fa-file-text-o">Pasted image 20260301111055</name>   <story-text><div>Тест</div></story-text> </gm-story>
+    <gm-story id="f0000015" > <name icon="fa fa-fw fa-file-text-o">Pasted image 20260301111122</name>   <story-text><div>Тест</div></story-text> </gm-story>
+    <gm-story id="f0000016" > <name icon="fa fa-fw fa-file-text-o">big_map</name>   <story-text><div>Тест</div></story-text> </gm-story>
+</gm-folder>
+<gm-folder style="zoom: 1;" id=board"d0000007"> <name icon="fa fa-fw fa-folder">Локации</name>
+    <gm-story id="f0000017" > <name icon="fa fa-fw fa-file-text-o">Астевуар</name>   <story-text><div>Тест</div></story-text> </gm-story>
+    <gm-story id="f0000018" > <name icon="fa fa-fw fa-file-text-o">Барния Дэ-Люмьер</name>   <story-text><div>Тест</div></story-text> </gm-story>
+    <gm-story id="f0000019" > <name icon="fa fa-fw fa-file-text-o">Барония Безарли</name>   <story-text><div>Тест</div></story-text> </gm-story>
+    <gm-story id="f0000020" > <name icon="fa fa-fw fa-file-text-o">Барония Джанкур</name>   <story-text><div>Тест</div></story-text> </gm-story>
+    <gm-story id="f0000021" > <name icon="fa fa-fw fa-file-text-o">Барония Костанье</name>   <story-text><div>Тест</div></story-text> </gm-story>
+    <gm-story id="f0000022" > <name icon="fa fa-fw fa-file-text-o">Ла-Винкар</name>   <story-text><div>Тест</div></story-text> </gm-story>
+    <gm-story id="f0000023" > <name icon="fa fa-fw fa-file-text-o">Ле-Бо-Де-Прованс</name>   <story-text><div>Тест</div></story-text> </gm-story>
+    <gm-story id="f0000024" > <name icon="fa fa-fw fa-file-text-o">Рошфор-ан-Терр</name>   <story-text><div>Тест</div></story-text> </gm-story>
+    <gm-story id="f0000025" > <name icon="fa fa-fw fa-file-text-o">Форт дома Сумулур в Безарли</name>   <story-text><div>Тест</div></story-text> </gm-story>
+</gm-folder>
+<gm-folder style="zoom: 1;" id=board"d0000008"> <name icon="fa fa-fw fa-folder">Лор</name>
+    <gm-story id="f0000026" > <name icon="fa fa-fw fa-file-text-o">Аратская колегия сфер</name>   <story-text><div>Тест</div></story-text> </gm-story>
+    <gm-folder style="zoom: 1;" id=board"d0000009"> <name icon="fa fa-fw fa-folder">Государства</name>
+        <gm-story id="f0000027" > <name icon="fa fa-fw fa-file-text-o">Аттерам</name>   <story-text><div>Тест</div></story-text> </gm-story>
+    </gm-folder>
+    <gm-folder style="zoom: 1;" id=board"d0000010"> <name icon="fa fa-fw fa-folder">Роды</name>
+        <gm-story id="f0000028" > <name icon="fa fa-fw fa-file-text-o">Дом Сумулур</name>   <story-text><div>Тест</div></story-text> </gm-story>
+        <gm-story id="f0000029" > <name icon="fa fa-fw fa-file-text-o">Дом Фатх</name>   <story-text><div>Тест</div></story-text> </gm-story>
+    </gm-folder>
+    <gm-story id="f0000030" > <name icon="fa fa-fw fa-file-text-o">Экономика</name>   <story-text><div>Тест</div></story-text> </gm-story>
+</gm-folder>
+<gm-story id="f0000031" > <name icon="fa fa-fw fa-file-text-o">Мастерская доска</name>   <story-text><div>Тест</div></story-text> </gm-story>
+<gm-folder style="zoom: 1;" id=board"d0000011"> <name icon="fa fa-fw fa-folder">НИПЫ</name>
+    <gm-folder style="zoom: 1;" id=board"d0000012"> <name icon="fa fa-fw fa-folder">Враги</name>
+        <gm-story id="f0000032" > <name icon="fa fa-fw fa-file-text-o">Мариус</name>   <story-text><div>Тест</div></story-text> </gm-story>
+        <gm-story id="f0000033" > <name icon="fa fa-fw fa-file-text-o">Матей</name>   <story-text><div>Тест</div></story-text> </gm-story>
+        <gm-story id="f0000034" > <name icon="fa fa-fw fa-file-text-o">Рыцарь в плаще</name>   <story-text><div>Тест</div></story-text> </gm-story>
+    </gm-folder>
+    <gm-folder style="zoom: 1;" id=board"d0000013"> <name icon="fa fa-fw fa-folder">Наниматели</name>
+        <gm-story id="f0000035" > <name icon="fa fa-fw fa-file-text-o">Рикардо Жером Мартинес</name>   <story-text><div>Тест</div></story-text> </gm-story>
+    </gm-folder>
+    <gm-folder style="zoom: 1;" id=board"d0000014"> <name icon="fa fa-fw fa-folder">Правители</name>
+        <gm-story id="f0000036" > <name icon="fa fa-fw fa-file-text-o">Его Сиятельство Дагоберт дю Нель Люмьерский</name>   <story-text><div>Тест</div></story-text> </gm-story>
+        <gm-story id="f0000037" > <name icon="fa fa-fw fa-file-text-o">Его милость Гастон дю Валуа</name>   <story-text><div>Тест</div></story-text> </gm-story>
+        <gm-story id="f0000038" > <name icon="fa fa-fw fa-file-text-o">Его милость Жиль дю Тьерсо</name>   <story-text><div>Тест</div></story-text> </gm-story>
+        <gm-story id="f0000039" > <name icon="fa fa-fw fa-file-text-o">Его милость Кристиан дю Леру</name>   <story-text><div>Тест</div></story-text> </gm-story>
+        <gm-story id="f0000040" > <name icon="fa fa-fw fa-file-text-o">Его милость Нарсис дю Маршан</name>   <story-text><div>Тест</div></story-text> </gm-story>
+        <gm-story id="f0000041" > <name icon="fa fa-fw fa-file-text-o">Его милость Роберт дю Дельмас</name>   <story-text><div>Тест</div></story-text> </gm-story>
+        <gm-story id="f0000042" > <name icon="fa fa-fw fa-file-text-o">Его милость барон Дюран дю Маршан</name>   <story-text><div>Тест</div></story-text> </gm-story>
+        <gm-story id="f0000043" > <name icon="fa fa-fw fa-file-text-o">Рохель дю Нель</name>   <story-text><div>Тест</div></story-text> </gm-story>
+        <gm-story id="f0000044" > <name icon="fa fa-fw fa-file-text-o">Франсуа дю Кастан</name>   <story-text><div>Тест</div></story-text> </gm-story>
+    </gm-folder>
+</gm-folder>
+<gm-folder style="zoom: 1;" id=board"d0000015"> <name icon="fa fa-fw fa-folder">Персонажи</name>
+    <gm-folder style="zoom: 1;" id=board"d0000016"> <name icon="fa fa-fw fa-folder">Артём</name>
+        <gm-story id="f0000045" > <name icon="fa fa-fw fa-file-text-o">Сир Ансельм дэ Кастан Ансель</name>   <story-text><div>Тест</div></story-text> </gm-story>
+        <gm-story id="f0000046" > <name icon="fa fa-fw fa-file-text-o">Уильям де Османд</name>   <story-text><div>Тест</div></story-text> </gm-story>
+    </gm-folder>
+    <gm-folder style="zoom: 1;" id=board"d0000017"> <name icon="fa fa-fw fa-folder">Дима</name>
+        <gm-story id="f0000047" > <name icon="fa fa-fw fa-file-text-o">Альберт де Садлер</name>   <story-text><div>Тест</div></story-text> </gm-story>
+        <gm-story id="f0000048" > <name icon="fa fa-fw fa-file-text-o">Сир Говен Юк де Ля-Монфер</name>   <story-text><div>Тест</div></story-text> </gm-story>
+    </gm-folder>
+    <gm-folder style="zoom: 1;" id=board"d0000018"> <name icon="fa fa-fw fa-folder">Ника</name>
+        <gm-story id="f0000049" > <name icon="fa fa-fw fa-file-text-o">Дид Марфогель</name>   <story-text><div>Тест</div></story-text> </gm-story>
+        <gm-story id="f0000050" > <name icon="fa fa-fw fa-file-text-o">Мадмазель Амалия Каур</name>   <story-text><div>Тест</div></story-text> </gm-story>
+        <gm-story id="f0000051" > <name icon="fa fa-fw fa-file-text-o">Серхио Мора Гальего</name>   <story-text><div>Тест</div></story-text> </gm-story>
+    </gm-folder>
+    <gm-folder style="zoom: 1;" id=board"d0000019"> <name icon="fa fa-fw fa-folder">Петя</name>
+        <gm-story id="f0000052" > <name icon="fa fa-fw fa-file-text-o">Хаинц Эббер</name>   <story-text><div>Тест</div></story-text> </gm-story>
+    </gm-folder>
+    <gm-folder style="zoom: 1;" id=board"d0000020"> <name icon="fa fa-fw fa-folder">Тима</name>
+        <gm-story id="f0000053" > <name icon="fa fa-fw fa-file-text-o">Брат Бенуа Фитцджеральд</name>   <story-text><div>Тест</div></story-text> </gm-story>
+        <gm-story id="f0000054" > <name icon="fa fa-fw fa-file-text-o">Леопольд де Рауль</name>   <story-text><div>Тест</div></story-text> </gm-story>
+    </gm-folder>
+</gm-folder>
+<gm-folder style="zoom: 1;" id=board"d0000021"> <name icon="fa fa-fw fa-folder">Предметы</name>
+    <gm-folder style="zoom: 1;" id=board"d0000022"> <name icon="fa fa-fw fa-folder">Записки</name>
+    </gm-folder>
+    <gm-folder style="zoom: 1;" id=board"d0000023"> <name icon="fa fa-fw fa-folder">Прочее</name>
+    </gm-folder>
+    <gm-folder style="zoom: 1;" id=board"d0000024"> <name icon="fa fa-fw fa-folder">Снаряжение</name>
+    </gm-folder>
+</gm-folder>
+<gm-folder style="zoom: 1;" id=board"d0000025"> <name icon="fa fa-fw fa-folder">Сессии</name>
+    <gm-story id="f0000055" > <name icon="fa fa-fw fa-file-text-o">Сессия 1</name>   <story-text><div>Тест</div></story-text> </gm-story>
+    <gm-story id="f0000056" > <name icon="fa fa-fw fa-file-text-o">Сессия 2</name>   <story-text><div>Тест</div></story-text> </gm-story>
+    <gm-story id="f0000057" > <name icon="fa fa-fw fa-file-text-o">Сессия 3</name>   <story-text><div>Тест</div></story-text> </gm-story>
+</gm-folder>
