@@ -1,0 +1,16 @@
+<gm-root>
+<created_date>01.03.2026 13:11</created_date>
+  <modified_date>01.03.2026 13:50</modified_date>
+  <name>Мастерская доска</name><portrait></portrait>
+
+<gm-folder id="board00000001" style="zoom: 1;"> <name icon="fa fa-fw fa-folder">Test_folder</name>
+
+<gm-story id="board00000002">
+<name icon="fa fa-fw fa-file-text-o">Test_note</name>
+<story-text>
+<div>Test text test text</div>
+</story-text>
+</gm-story>
+
+</gm-folder>
+</gm-root>
