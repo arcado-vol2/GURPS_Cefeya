@@ -1,6 +1,6 @@
 <gm-root>
     <created_date>01.03.2026 13:11</created_date>
-    <modified_date>04.03.2026 20:53</modified_date>
+    <modified_date>04.03.2026 21:01</modified_date>
     <name>Cefeya_petr</name><portrait></portrait>
 
 <gm-folder style="zoom: 1;" id=board"d0000001"> <name icon="fa fa-fw fa-folder">Бестиарий</name>
@@ -8,7 +8,7 @@
         <gm-story id="f0000001" > <name icon="fa fa-fw fa-file-text-o">Аранос</name>  <story-text><div>
 <div>#бог</div>
 <div>Божество, управляющее физической реальностью. Его прерогатива — поддержание и регуляция законов физики, а также всех объектов, обладающих пространственно-временными характеристиками (масса, форма, плотность).</div>
-<div>Составная часть <a href="#board99999999">Арунгот</a></div>
+<div>Составная часть <a href="#f0000002">Арунгот</a></div>
 </div></story-text> </gm-story>
         <gm-story id="f0000002" > <name icon="fa fa-fw fa-file-text-o">Ардагот</name>  <story-text><div>
 <div>#бог</div>

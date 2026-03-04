@@ -147,7 +147,7 @@ def remove_extention_from_name(original_name: str) -> str:
     return Path(original_name).stem
 
 
-def scan_directory_xml(base_path: str, indent: int = 0, counters: dict = None) -> tuple[str, dict]:
+def scan_directory_xml(base_path: str, indent: int = 0, counters: dict = None) -> tuple[str, dict, dict]:
     """Рекурсивно сканирует директорию и возвращает XML-подобную строку и счётчики."""
     result = []
     
@@ -163,6 +163,10 @@ def scan_directory_xml(base_path: str, indent: int = 0, counters: dict = None) -
     except PermissionError:
         return '', counters
     
+
+    links_tmp = {
+
+    }
     for entry in entries:
         # Пропускаем исключённые элементы
         if entry in excluded:
@@ -190,12 +194,14 @@ def scan_directory_xml(base_path: str, indent: int = 0, counters: dict = None) -
             # Открывающий тэг директории
             result.append(f'{indent_str}<gm-folder style="zoom: 1;" id=board"{unique_id}"> <name icon="fa fa-fw fa-folder">{original_name}</name>')
             # Рекурсивный вызов для директорий
-            sub_result, counters = scan_directory_xml(full_path, indent + 1, counters)
+            sub_result, counters, links = scan_directory_xml(full_path, indent + 1, counters)
+            links_tmp = links_tmp | links
             if sub_result:
                 result.append(sub_result)
             # Закрывающий тэг директории
             result.append(f'{indent_str}</gm-folder>')
         else:
+            links_tmp[full_path.split('\\')[-1].split('.')[0]] = unique_id
             text = '<story-text><div>ПУСТО</div></story-text>'
             try:
                 with open(full_path, 'r', encoding='utf-8') as f:
@@ -205,7 +211,7 @@ def scan_directory_xml(base_path: str, indent: int = 0, counters: dict = None) -
                 print(f'[WARNING] {full_path} accuse error: "{e}"')
             result.append(f'{indent_str}<gm-story id="{unique_id}" > <name icon="fa fa-fw fa-file-text-o">{original_name}</name>  {text} </gm-story>')
     
-    return '\n'.join(result), counters
+    return '\n'.join(result), counters, links_tmp
 
 
 def main():
@@ -215,7 +221,8 @@ def main():
     header = f"<gm-root>\n    <created_date>{creation_date}</created_date>\n    <modified_date>{datetime.now().strftime("%d.%m.%Y %H:%M")}</modified_date>\n    <name>{parent_dir_name}_{header_postfix}</name><portrait></portrait>\n"
     footer = "</gm-root>"
     # Сканируем директорию
-    lines, _ = scan_directory_xml(script_dir)
+    lines, _, links = scan_directory_xml(script_dir)
+    print(links)
     
     # Собираем итоговый текст
     output_text = header + '\n' + lines
