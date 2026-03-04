@@ -1,11 +1,11 @@
 {
 	"nodes":[
 		{"id":"362b2028830f765f","type":"file","file":"Cefeya/Картинки/big_map.png","x":-1120,"y":2320,"width":5632,"height":3475},
-		{"id":"352526de68f659c1","type":"file","file":"Cefeya/Локации/Барония Безарли.md","x":3120,"y":4720,"width":355,"height":120,"color":"1"},
-		{"id":"93e3e065c3d53321","type":"file","file":"Cefeya/Локации/Барония Джанкур.md","x":220,"y":5360,"width":340,"height":217,"color":"1"},
-		{"id":"88c53668475f6239","type":"file","file":"Cefeya/Локации/Барния Дэ-Люмьер.md","x":560,"y":3280,"width":400,"height":160,"color":"1"},
-		{"id":"314a1e7faf4a2ec1","type":"file","file":"Cefeya/Локации/Барония Костанье.md","x":3840,"y":3352,"width":406,"height":176,"color":"1"},
-		{"id":"ff07d960f35b3f44","type":"file","file":"Cefeya/Локации/Ле-Бо-Де-Прованс.md","x":-400,"y":2880,"width":440,"height":140}
+		{"id":"352526de68f659c1","type":"file","file":"Cefeya/Локации/Феоды/Барония Безарли.md","x":3120,"y":4720,"width":355,"height":120,"color":"1"},
+		{"id":"93e3e065c3d53321","type":"file","file":"Cefeya/Локации/Феоды/Барония Джанкур.md","x":220,"y":5360,"width":340,"height":217,"color":"1"},
+		{"id":"88c53668475f6239","type":"file","file":"Cefeya/Локации/Феоды/Барния Дэ-Люмьер.md","x":560,"y":3280,"width":400,"height":160,"color":"1"},
+		{"id":"314a1e7faf4a2ec1","type":"file","file":"Cefeya/Локации/Феоды/Барония Костанье.md","x":3840,"y":3352,"width":406,"height":176,"color":"1"},
+		{"id":"ff07d960f35b3f44","type":"file","file":"Cefeya/Локации/Феоды/Ле-Бо-Де-Прованс.md","x":-400,"y":2880,"width":440,"height":140}
 	],
 	"edges":[]
 }
