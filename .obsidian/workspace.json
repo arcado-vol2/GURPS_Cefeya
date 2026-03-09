@@ -1,0 +1,326 @@
+{
+  "main": {
+    "id": "2bd76b30415e0a0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f274789157a5e764",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5ca2281a329fc71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Персонажи/Тима/Брат Бенуа Фитцджеральд.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Брат Бенуа Фитцджеральд"
+            }
+          },
+          {
+            "id": "05b8e6e131d5d0c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сессии/Сессия 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сессия 4"
+            }
+          },
+          {
+            "id": "021746e05cc3a968",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Персонажи/Стёпа/Асгрим Рангнорсон.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Асгрим Рангнорсон"
+            }
+          },
+          {
+            "id": "73a2dd700062524f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Война с Олденгемом.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Война с Олденгемом"
+            }
+          },
+          {
+            "id": "e90db93d0d781514",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Увольф.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Увольф"
+            }
+          },
+          {
+            "id": "c2cfb13d1f407904",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "НИПЫ/Правители/Его Сиятельство Дагоберт дю Нель Люмьерский.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Его Сиятельство Дагоберт дю Нель Люмьерский"
+            }
+          },
+          {
+            "id": "c8deef9d91dcdee6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Персонажи/Ника/Мадмазель Амалия Каур.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Мадмазель Амалия Каур"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "265a7f202c0b1f18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3d745ee1c80a7c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сессии/Сессия 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сессия 4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc796f1a239155f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "26f6a2ee56684a31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a54045381819c623",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "b2df3cdbe0efe8dd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "22a2832fac2391f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e2b103bc8e3f8c04",
+    "type": "split",
+    "children": [
+      {
+        "id": "81005728d896009d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5023c1e189d90de3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Сессии/Сессия 4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Сессия 4"
+            }
+          },
+          {
+            "id": "0ef44c5a0f70a183",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Сессии/Сессия 4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Сессия 4"
+            }
+          },
+          {
+            "id": "04b9763aa0d1c158",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "ebea3ec69bda07c3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "9d57f91d62951287",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Сессии/Сессия 4.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Сессия 4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "f3d745ee1c80a7c0",
+  "lastOpenFiles": [
+    "Персонажи/Стёпа/Асгрим Рангнорсон.md",
+    "Сессии/Сессия 4.md",
+    "Персонажи/Ника/Мадмазель Амалия Каур.md",
+    "Война с Олденгемом.md",
+    "Увольф.md",
+    "НИПЫ/Правители/Его Сиятельство Дагоберт дю Нель Люмьерский.md",
+    "НИПЫ/Союзники/Сир Ансельм дэ Кастан Ансель.md",
+    "Персонажи/Тима/Брат Бенуа Фитцджеральд.md",
+    "Сессии/Сессия 1.md",
+    "Болезни и травмы/Малокровие.md",
+    "Лор/Мои родственники/Хелика.md",
+    "Персонажи/Петя/Хаинц Эббер.md",
+    "Персонажи/Степа",
+    "Бестиарий/Монстры/Карабкающаяся нежить.md",
+    "Бестиарий/Монстры/Зомби.md",
+    "Глобальная карта.canvas",
+    "Картинки/big_map.png",
+    "НИПЫ/Союзники/Альберт де Садлер.md",
+    "Картинки/Pasted image 20260301111055.png",
+    "Картинки/Pasted image 20260301111122.png",
+    "Сессии/Сессия 3.md",
+    "Слухи/Послания/Письмо от магистра Аратской колегии сфер.md",
+    "Слухи/Послания/Последние слова магистра Аратской колегии сфер.md",
+    "Слухи/Послания/Стих на стене в колодце форта Сумулур.md",
+    "Лор/Мои родственники",
+    "НИПЫ/Правители/Его милость Кристиан дю Леру.md",
+    "НИПЫ/Нейтрально/Сир Говен Юк де Ля-Монфер.md",
+    "мад.md",
+    "НИПЫ/Союзники/Уильям де Османд.md",
+    "Персонажи/Стёпа",
+    "НИПЫ/Союзники",
+    "Сессии/Сессия 2.md"
+  ]
+}
